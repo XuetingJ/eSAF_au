@@ -88,6 +88,7 @@ informed by CSIRO–AEMO GenCost 2025–26. Monetary basis: real 2026 AUD (USD20
 source is listed in `data/parameters.csv`; full documentation is in the paper's Table 2 and Supplementary Information.
 
 ## Licence
+© 2026 Commonwealth Scientific and Industrial Research Organisation (CSIRO).
 
 Code: MIT (see `LICENSE`). Data in `data/` and `outputs/`: CC BY 4.0.
 
