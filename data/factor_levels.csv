@@ -1,0 +1,5 @@
+factor,levels
+electricity_path,Low;Central;High
+wacc,0.03;0.07;0.10
+ael_learning_rate,0.05;0.132;0.18
+ft_learning_rate,0.0;0.05;0.10

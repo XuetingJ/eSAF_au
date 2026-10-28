@@ -1,0 +1,32 @@
+parameter,value,unit,source
+esaf_output_rate,2.5,t/h,Cahyono et al. (2026) [8]
+operating_hours,8088,h/y,Cahyono et al. (2026) [8]
+h2_feed,3.84,t/h,Cahyono et al. (2026) [8]
+co2_feed,27.6,t/h,Cahyono et al. (2026) [8]
+load_electrolysis,188.28,MW,Cahyono et al. (2026) [8] Fig. 8a (stack and electrolyte circulation)
+load_electrolyser_cooling,2.262,MW,Cahyono et al. (2026) [8] Fig. 8a
+load_syngas_compression,4.919,MW,Cahyono et al. (2026) [8] Fig. 8a
+load_psa_co2_capture,4.950,MW,Cahyono et al. (2026) [8] Fig. 8a (outside plant boundary under procured CO2)
+load_co2_compression,1.145,MW,Cahyono et al. (2026) [8] Fig. 8a (outside plant boundary under procured CO2)
+pem_recovery,1.95,MW,Cahyono et al. (2026) [8] Fig. 8a (not credited in headline)
+legacy_gross_load,201.56,MW,Cahyono et al. (2026) [8] gross balance (legacy accounting only)
+economic_life,30,years,Cahyono et al. (2026) [8]
+diesel_revenue,14.28,MUSD2024/y,Cahyono et al. (2026) [8] Fig. 11
+naphtha_revenue,4.66,MUSD2024/y,Cahyono et al. (2026) [8] Fig. 11
+ael_installed_cost,2300,USD2024/kW,IEA Global Hydrogen Review 2025 Assumptions Annex [5]
+ael_cost_floor,700,AUD2026/kW,study assumption
+ael_reference_experience,4,GW,study assumption (2025 global electrolysis)
+ael_performance_improvement,0.008,fraction per doubling,study assumption
+ael_performance_floor,45,kWh/kgH2,study assumption
+synthesis_capex,110,MUSD2024,study screening allowance
+synthesis_cost_floor,0.6,fraction of base,study assumption
+ft_reference_experience,1,equivalent units,study assumption
+bop_capex,80,MUSD2024,study screening allowance
+bop_local_learning_diagnostic,0.05,fraction per doubling,study assumption (timing diagnostic only)
+bop_cost_floor,0.7,fraction of base,study assumption
+fixed_om_fraction,0.03,fraction of installed capital per year,IEA convention [5] applied to all blocks
+co2_price,82,AUD2026/tCO2,CSIRO CO2 Utilisation Roadmap [25]: levelised capture incl. compression
+co2_price_floor,54,AUD2026/tCO2,CSIRO CO2 Utilisation Roadmap [25] best case
+co2_learning_rate,0.03,fraction per doubling,study assumption [27]
+co2_reference_experience,50,Mt/y,study assumption (2025 global point capture)
+monetary_factor,1.605586,AUD2026 per USD2024,exchange rate [26] x CPI [29]

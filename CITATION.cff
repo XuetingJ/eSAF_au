@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this model or data, please cite the associated paper."
+title: "Dynamic techno-economic model of Australian eSAF production, 2025–2050"
+authors:
+  - family-names: Jiang
+    given-names: Xueting
+    affiliation: CSIRO Environment
+type: software
+repository-code: "https://github.com/XuetingJ/eSAF_au"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-28

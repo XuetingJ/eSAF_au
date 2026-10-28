@@ -1,0 +1,13 @@
+factor,level,marginal_mean_2050
+electricity_path,Low,6.192558472842702
+electricity_path,Central,6.935266066500041
+electricity_path,High,8.420681253814715
+wacc,0.03,6.367014708749575
+wacc,0.07,7.222112232869972
+wacc,0.1,7.959378851537911
+ael_learning_rate,0.05,8.13992579586846
+ael_learning_rate,0.132,6.935055219145128
+ael_learning_rate,0.18,6.47352477814387
+ft_learning_rate,0.0,7.3860176631407475
+ft_learning_rate,0.05,7.1580985158126476
+ft_learning_rate,0.1,7.0043896142040625
