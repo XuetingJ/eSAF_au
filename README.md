@@ -2,7 +2,7 @@
 
 Code and data for:
 
-> Jiang, X. et al. *Global component learning and Australian conditions in the dynamic production costs of electro-sustainable aviation fuel.* (manuscript in preparation)
+> *Global component learning and Australian conditions in the dynamic production costs of electro-sustainable aviation fuel.* (manuscript in preparation)
 
 The model calculates the annual plant-gate production cost of electro-sustainable aviation fuel (eSAF) from an
 alkaline-electrolysis – reverse-water-gas-shift – Fischer–Tropsch (AEL–RWGS–FT) plant in Australia, for
