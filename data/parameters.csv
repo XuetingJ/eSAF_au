@@ -25,7 +25,7 @@ bop_capex,80,MUSD2024,study screening allowance
 bop_local_learning_diagnostic,0.05,fraction per doubling,study assumption (timing diagnostic only)
 bop_cost_floor,0.7,fraction of base,study assumption
 fixed_om_fraction,0.03,fraction of installed capital per year,IEA convention [5] applied to all blocks
-co2_price,82,AUD2026/tCO2,CSIRO CO2 Utilisation Roadmap [25]: levelised capture incl. compression
+co2_price,82,AUD2026/tCO2,CSIRO CO2 Utilisation Roadmap [25]: levelised capture-cost proxy; process-ready supply assumed
 co2_price_floor,54,AUD2026/tCO2,CSIRO CO2 Utilisation Roadmap [25] best case
 co2_learning_rate,0.03,fraction per doubling,study assumption [27]
 co2_reference_experience,50,Mt/y,study assumption (2025 global point capture)
